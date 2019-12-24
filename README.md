@@ -1,4 +1,4 @@
-# webpac4-vue
+# webpack4-vue
 基于webpack4搭建的一个简单的vue项目
 
 下载
