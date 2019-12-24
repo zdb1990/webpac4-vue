@@ -11,7 +11,7 @@ module.exports=merge(baseWebpackConfig,{
         //  open:'Google Chrome',
          open:true,
          port:5200,
-         host:'10.1.6.137',
+         host:'localhost',
          overlay:true,
          proxy:{
              
